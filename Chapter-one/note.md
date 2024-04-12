@@ -1,5 +1,5 @@
 ## Setting up go on VS Code
-Chapter one introduces readers to the Go playground for running go commands but I choose to set up go locally in my system to be able to run it locally and have a feel of how everything works on my machine.
+Chapter one introduces the Go playground for running Go commands. However, I chose to install Go on my own computer to run commands locally and gain a better understanding of how everything operates on my system.
 
 ## Go packages
 
