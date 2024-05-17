@@ -5,12 +5,12 @@ import "fmt"
 func main () {
 
 // This Go program takes user input, doubles it, and then prints the result. The user's input must be a number else it returns '0'
-// fmt.Print("Enter a number: ")
-// var input float64
-// fmt.Scanf("%f", &input)
+fmt.Print("Enter a number: ")
+var input float64
+fmt.Scanf("%f", &input)
 
-// output := input * 2
-// fmt.Println(output)
+output := input * 2
+fmt.Println(output)
 
 // Go Program 2 //
 // Get Fahrenheit temperatute from users
