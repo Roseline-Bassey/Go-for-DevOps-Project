@@ -93,12 +93,4 @@ string`
 	// Formal parameters: These are treated as local variables within a function but they take preferance over local variables
 
 
-   // Sample Program: This Go program takes user input, doubles it, and then prints the result. The user's input must be a number else it returns '0'
-   fmt.Print("Enter a number: ")
-   var input float64
-   fmt.Scanf("%f", &input)
-
-   output := input * 2
-   fmt.Println(output)
-
 }      
