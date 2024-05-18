@@ -22,10 +22,6 @@ fmt.Println(output)
  celsius:= (fahrenheit -32) * 5/9
  fmt.Printf("%.2f degrees Fahrenheit is equal to %.2f degrees Celsius\n", fahrenheit, celsius)
 
-
-
-// CHAPTER 4 - TASKS BEGINS FROM HERE	
-
 /* 1. What is the value of x after running: 
 x := 5; x += 1? */
 
